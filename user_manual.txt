@@ -1,0 +1,23 @@
+Guide Utilisateur pour le Prototype : Trouver les Meilleurs Hôtels Selon Votre Topic Préféré
+Introduction
+
+Bienvenue dans notre application prototype ! Notre outil vous permet de trouver les meilleurs hôtels selon un sujet ou un thème qui vous tient à cœur. Que vous recherchiez des hôtels axés sur le bien-être, l'écologie, le luxe, ou encore des expériences culinaires uniques, nous vous guidons pour vivre un séjour parfait.
+Étapes pour Utiliser l’Application
+1. Choisissez un sujet qui vous passionne
+
+Lors de votre arrivée sur l’application, vous serez invité(e) à choisir un thème parmi les options suivantes :
+
+    Bien-être : Idéal pour des séjours relaxants.
+    qualité de sommeil : Pour des expériences reposantes.
+    service : Trouvez des hôtels avec un service sans reproche.
+    etc
+
+Étape utilisateur : Cliquez sur une catégorie.
+2. Recevez les meilleures recommandations
+
+Une fois votre sujet sélectionné, l’application vous propose une liste personnalisée des hôtels correspondant à votre choix.
+Les résultats incluent :
+
+    Une courte description de chaque hôtel.
+    Une note basée sur les avis des utilisateurs.
+    Les caractéristiques spéciales de l'hôtel en lien avec votre thème (exemple : piscine thermale 
