@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load your data (replace with actual path or data source)
-data = pd.read_csv("./nlp_results/rev_topic.csv")
+data = pd.read_csv("./app_data.csv")
 
 # Exclude unwanted source
 data = data[data['source'] != 'www.hostelworld.com']
